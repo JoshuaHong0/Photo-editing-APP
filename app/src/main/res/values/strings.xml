@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MeituTietie</string>
+    <string name="checkbox_prompt">关注美图贴贴官方微博</string>
+    <string name="returnButton">返回</string>
+    <string name="title_activity_crop_image">CropImageActivity</string>
+    <string name="nextStep">下一步</string>
+    <string name="prompt">   点击按钮可改变选框模式</string>
+    <string name="edit">编辑</string>
+</resources>

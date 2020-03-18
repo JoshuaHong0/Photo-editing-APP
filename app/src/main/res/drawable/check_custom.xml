@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true">
+        <layer-list>
+            <item android:drawable="@drawable/guide_check_focus_ok" android:height="30dp" android:width="40dp"></item>
+        </layer-list>
+    </item>
+
+    <item android:state_checked="false">
+        <layer-list>
+            <item android:drawable="@drawable/guide_check_focus_not" android:height="30dp" android:width="40dp"></item>
+        </layer-list>
+    </item>
+</selector>
